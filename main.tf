@@ -11,7 +11,3 @@ module "virtual_machine" {
   linux_caching              = var.linux_caching
   linux_create_option        = var.linux_create_option
 }
-
-module "SQL_DB" {
-  source = "./modules/SQL-DB"
-}

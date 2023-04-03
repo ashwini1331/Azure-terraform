@@ -1,11 +1,4 @@
 locals {
-
-  /*commaon_tags = {
-    "Environment" = "PROD"
-    "ControlledBy"= "Automatation"
-    "Owner"       = "XYZ"
-    "X"           = "y"
-  }*/
   nsgrules = {
     rdp = {
       name                       = "SSH"

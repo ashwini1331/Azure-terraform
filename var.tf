@@ -1,4 +1,4 @@
-variable "subscription_id" {
+/*variable "subscription_id" {
   description = "Provide your subscription ID for particuler azure account"
   default     = "3d3e800d-3830-4688-93bf-0532fb21dd76"
 }
@@ -13,7 +13,7 @@ variable "client_id" {
 variable "client_secret" {
   description = "Provide Your Client secret(password) for particuler azure account"
   default     = "ipH8Q~7xeKXFIXqYD7e_Oh8xurJyEFFHChyfdaDv"
-}
+}*/
 variable "computer_name" {
   default = "linux-vm"
 }
