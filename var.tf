@@ -1,18 +1,18 @@
 /*variable "subscription_id" {
   description = "Provide your subscription ID for particuler azure account"
-  default     = "3d3e800d-3830-4688-93bf-0532fb21dd76"
+  default     = ""
 }
 variable "tenant_id" {
   description = "Provide Your Tenant ID for particuler azure account"
-  default     = "91f3867d-f3a0-41c5-94b6-fe6476f35d42"
+  default     = ""
 }
 variable "client_id" {
   description = "Provide Your Client ID for particuler azure account"
-  default     = "9708207a-c57c-468a-b9c6-92b40e36d9b2"
+  default     = ""
 }
 variable "client_secret" {
   description = "Provide Your Client secret(password) for particuler azure account"
-  default     = "ipH8Q~7xeKXFIXqYD7e_Oh8xurJyEFFHChyfdaDv"
+  default     = ""
 }*/
 variable "computer_name" {
   default = "linux-vm"
